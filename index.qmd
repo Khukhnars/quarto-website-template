@@ -1,6 +1,6 @@
 ---
-title: "Making shareable documents with Quarto"
-subtitle: "Create open-source tutorials, onboarding docs, and much more"
+title: "My Template of Quarto Webpage"
+subtitle: "This could help me to share"
 ---
 
 ## Welcome {#welcome}
